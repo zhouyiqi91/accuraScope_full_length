@@ -24,4 +24,4 @@ vscode:
 additionalRepositories:
   - url: https://github.com/zhouyiqi91/multiqc_sgr.git
     # checkoutLocation is relative to /workspaces
-    checkoutLocation: backend
+    checkoutLocation: multiqc_sgr
